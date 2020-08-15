@@ -1,2 +1,2 @@
-Hi! Welcomehttps://github.com/barunm/barunm.github.io/blob/master/README.md
+Hi! Welcome
 I am Barun
